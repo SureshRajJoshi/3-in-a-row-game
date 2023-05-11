@@ -1,1 +1,1 @@
-# 3-in-a-row-game
+# Tic Tac Toe Game
